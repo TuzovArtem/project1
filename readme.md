@@ -6,3 +6,5 @@ Hello world
 **Я ** из леса вышел
 
 [www.google.com](ссылка на гугл)
+
+[link text](www.google.com)
