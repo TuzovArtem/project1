@@ -7,4 +7,4 @@ Hello world
 
 [www.google.com](ссылка на гугл)
 
-[link text](www.google.com)
+[link text](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/markups/level%201/theyalow/theyalow-en.md)
